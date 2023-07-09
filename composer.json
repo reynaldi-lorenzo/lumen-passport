@@ -13,10 +13,10 @@
         }
     ],
     "require": {
-        "php": "^7.1|^8.0",
-        "illuminate/database": "^8.0|^9.0|^10.0",
-        "illuminate/support": "^8.0|^9.0|^10.0",
-        "laravel/passport": "^10.4.2",
+        "php": "^8.0",
+        "illuminate/database": "^9.0|^10.0",
+        "illuminate/support": "^9.0|^10.0",
+        "laravel/passport": "^11.8.0",
         "laminas/laminas-diactoros": "^2.4"
     },
     "require-dev": {
